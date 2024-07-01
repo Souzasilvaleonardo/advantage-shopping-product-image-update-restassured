@@ -41,7 +41,9 @@ mvn test
 
 ### Evidência de Testes Bem-Sucedidos
 
-Aqui está uma captura de tela mostrando todos os testes passando com sucesso:
+Aqui está uma captura de tela mostrando o teste passando com sucesso:
+
+![test-successful](https://github.com/Souzasilvaleonardo/advantage-shopping-product-image-update-restassured/assets/105978283/d5b0a323-7259-4963-8b0a-09da3ebba18d)
 
 ## Justificativa para a Organização das Pastas
 
